@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Renan Oliveira de Toledo</h1>
-<h3 align="center">A future backend developer 💻</h3>
+<h3 align="center">A future Hacker 💻</h3>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Pentest**
 
 - 📫 How to reach me **renanlvr26@gmail.com**
 

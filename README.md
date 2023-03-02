@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm Renan Oliveira de Toledo</h1>
-<h3 align="center">A future Hacker 💻</h3>
+<h1 align="center">Oi 👋, Eu sou Renan Oliveira de Toledo</h1>
+<h3 align="center">Interessado em trabalhar como programador, suporte ou Hacker ético 💻</h3>
 
-- 🌱 I’m currently learning **Pentest**
-
-- 📫 How to reach me **renanlvr26@gmail.com**
+-  **renanlvr26@gmail.com**
 
 <p align="center">
 <a href="https://linkedin.com/in/renan-oliveira-toledo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="renan-oliveira-toledo" height="30" width="30" /></a>
